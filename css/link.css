@@ -1,0 +1,36 @@
+body{
+  background-color: #AAC4FF;
+}
+
+#t1{
+  text-decoration: underline;
+  font-family: cursive;
+}
+
+#ct1{
+  font-size: 20px;
+  font-family: cursive;
+}
+
+#ct2{
+  font-size: 20px;
+  font-family: cursive;
+  margin-left: 44px;
+}
+
+#ct3{
+  font-size: 20px;
+  font-family: cursive;
+}
+
+#pr1{
+  font-size: 20px;
+  font-family: cursive;
+  text-align: center;
+}
+
+#t2{
+  text-decoration: underline;
+  font-family: cursive;
+  margin-left: 70px;
+}

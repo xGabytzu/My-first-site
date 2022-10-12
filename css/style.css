@@ -1,0 +1,31 @@
+body {
+  background-color: #AAC4FF;
+}
+
+img {
+  height: 200px;
+}
+
+h2 {
+  color: #CD104D;
+}
+
+/************************ID SELECTOR******************/
+#t1 {
+  text-align: center;
+  color: #CD104D;
+  text-decoration: underline;
+}
+
+#t2 {
+  color: #CD104D;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+#pr1{
+  font-size: 15px;
+  text-align: center;
+  text-decoration: underline;
+  font-variant: small-caps;
+}
